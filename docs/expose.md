@@ -34,7 +34,7 @@ Das Ziel ist es, den Campus Gummersbach, in  digitaler Form darzustellen. Hierbe
 ## Lösungsansätze
 <!-- Mögliche Ansätze zur Problemlösung vorstellen oder Strategien aufzeigen, wie Sie zu Lösungsansätzen kommen. -->
 
-Bestehen Lösungen von Drittanbietern
+Bestehende Lösungen von Drittanbietern
 - https://www.mappedin.com/ 
 - https://www.resonai.com/
 - https://proximi.io/
