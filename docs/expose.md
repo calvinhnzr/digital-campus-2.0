@@ -1,6 +1,8 @@
 
 # Praxis Projekt
 
+Konzeption und Umsetzung eines digitalen Lageplans für den Campus Gummersbach zur verbesserten Orientierung und Information von Studierenden.
+
 ## Problemfeld und Kontext
 <!-- Wo liegt das eigentliche Problem oder Problemfeld und in welchem Kontext liegt es. Den Kontext bitte auch ein wenig analysieren und erklären. -->
 
@@ -24,8 +26,26 @@ Das Ziel ist es, den Campus Gummersbach, in  digitaler Form darzustellen. Hierbe
 ## Aufgabenstellung
 <!-- Was ist die konkrete Aufgabe oder die möglichen Aufgaben. Bei mehreren Aufgaben bitte mögliche Vor- und Nachteile abwägen. -->
 
+1. Erstellung eines 3D Modells des Campus Gummersbach 
+2. Implementierung des 3D Modells in eine Webanwendung
+3. Implementierung von Navigationslementen -> Filterfunktionen
+
+
 ## Lösungsansätze
 <!-- Mögliche Ansätze zur Problemlösung vorstellen oder Strategien aufzeigen, wie Sie zu Lösungsansätzen kommen. -->
+
+Bestehen Lösungen von Drittanbietern
+- https://www.mappedin.com/ 
+- https://www.resonai.com/
+- https://proximi.io/
+- https://www.mapspeople.com/
+- https://www.esri.com/en-us/arcgis/products/arcgis-ips/overview
+- https://www.mazemap.com/
+- https://www.cisco.com/c/en/us/solutions/enterprise-networks/dna-spaces/index.html
+- https://www.pointr.tech/
+- https://mapplic.com/wayfinding
+- https://situm.com/en/
+- https://www.infsoft.com/de/produkte/infsoft-wayfinding/
 
 ## Chancen und Risiken
 <!-- Was kann mit dem Vorhaben erreicht werden? Welche Probleme könnten entstehen? -->
@@ -70,23 +90,18 @@ Technologien:
 - Blender -> Modellierung
 - OSM -> Karteninformatioen
 
-Bestehen Lösungen von Drittanbietern
-- https://www.mappedin.com/ 
-- https://www.resonai.com/
-- https://proximi.io/
-- https://www.mapspeople.com/
-- https://www.esri.com/en-us/arcgis/products/arcgis-ips/overview
-- https://www.mazemap.com/
-- https://www.cisco.com/c/en/us/solutions/enterprise-networks/dna-spaces/index.html
-- https://www.pointr.tech/
-- https://mapplic.com/wayfinding
-- https://situm.com/en/
-- https://www.infsoft.com/de/produkte/infsoft-wayfinding/
+
 
 
 
 ## Motivation
 <!-- Was ist Ihre persönliche Motivation sich mit dem Problem auseinander zu setzen? Warum kann dieses Problem besonders gut von einem Medieninformatiker gelöst werden? -->
+
+- Verknüpfung der Vertiefungsmodule Web-Development und Visual Computing
+- Als Student hatte ich selbst Probleme mich auf dem Campus zurechtzufinden
+
+
+
 
 
 ## Setup, Abhängigkeiten und Meilensteine
@@ -95,16 +110,24 @@ Bestehen Lösungen von Drittanbietern
 ## Arbeitsergebnis
 <!-- Wie sieht das Ergebnis am Ende der Arbeit aus und wie ist es für die Zielgruppe nutzbar? -->
 
-![https://spots.aksharbarot.com/](./img/inspo-spots.png)
-![https://plateforme10-interactive-map.vercel.app/](./img/inspo-10.png)
-![https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/](./img/inspo-tokyo.png)
-![https://studio-carto-urban-project.netlify.app/](./img/inspo-studio.png)
-![https://github.com/calvinhnzr/digital-campus](./img/inspo-gm.png)
+Das System richtet sich primär an Studierende und Studieninteressierte der Technischen Hochschule Köln, Campus Gummersbach. Es soll die Orientierung auf dem Campus erleichtern und über Veranstaltungen, Räume und Gebäude informieren. Das System soll von den Studierenden angenommen werden und eine möglichst maßstabsgetreue Darstellung des Campus bieten.
+
+![Sketch](./img/sketch.png)
+
 
 ## Mögliche Fragestellungen
 
 - Welche Chancen bietet ein 3d-Dimensioneller Lageplan zur Orientierung an Uni Standorten?
 - Wie kann die Orientierung an Studienstandorten verbessert werden?
+
+
+## Inspirationsquellen
+
+![https://spots.aksharbarot.com/](./img/inspo-spots.png)
+![https://plateforme10-interactive-map.vercel.app/](./img/inspo-10.png)
+![https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/](./img/inspo-tokyo.png)
+![https://studio-carto-urban-project.netlify.app/](./img/inspo-studio.png)
+![https://github.com/calvinhnzr/digital-campus](./img/inspo-gm.png)
 
 
 ## Quellen
