@@ -100,6 +100,23 @@ Technologien:
 - Verknüpfung der Vertiefungsmodule Web-Development und Visual Computing
 - Als Student hatte ich selbst Probleme mich auf dem Campus zurechtzufinden
 
+### Themen
+
+Welche Themen sind bei den Vertiefungsmodule relevant?
+
+**Visual Computing**
+- 3D Modellierung
+- Texturierung
+- Animation
+- Licht und Schatten
+- Kameras und Perspektiven
+
+**Web-Development**
+- Frontend mit React
+- ThreeJS
+- UX/UI Design
+- (Backend mit Deno)
+- (WebSockets)
 
 
 
