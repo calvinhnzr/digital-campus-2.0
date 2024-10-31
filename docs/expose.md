@@ -74,7 +74,6 @@ Da mit 3D grafiken gearbeitet wird, kann es zu **Performanceproblemen** kommen. 
 ## Ressourcen
 <!-- Erste Ideen und Ansätze zu Literatur, Technologie, Kooperationspartnern vorstellen. -->
 
-
 Kooperationspartner
 - Hochschule -> Architekturskizzen
 - Studierende -> Feedback
@@ -87,12 +86,11 @@ Technologien:
 - Web -> Verfügbarkeit
 - ThreeJS -> 3d Engine
 - React -> Interaktivität
+- Jotai, Zustand -> State Management
+- TypeScript -> Typsicherheit
 - Blender -> Modellierung
-- OSM -> Karteninformatioen
-
-
-
-
+- OpenStreetMap -> Karteninformatioen
+- OpenTopoMap -> Topografie  
 
 ## Motivation
 <!-- Was ist Ihre persönliche Motivation sich mit dem Problem auseinander zu setzen? Warum kann dieses Problem besonders gut von einem Medieninformatiker gelöst werden? -->
@@ -119,10 +117,10 @@ Welche Themen sind bei den Vertiefungsmodule relevant?
 - (WebSockets)
 
 
-
-
 ## Setup, Abhängigkeiten und Meilensteine
 <!-- Kooperationspartner, Arbeitsumgebung, Prüfer, etc. vorstellen. Wen und/oder was brauche ich um das Projekt/ die Arbeit erfolgreich durchführen und abschließen zu können? -->
+
+- Architekturskizzen der Hochschule könnten die Umsetzung eines 3D Modells erleichtern
 
 ## Arbeitsergebnis
 <!-- Wie sieht das Ergebnis am Ende der Arbeit aus und wie ist es für die Zielgruppe nutzbar? -->
